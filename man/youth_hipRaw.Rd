@@ -5,12 +5,14 @@
 \alias{youth_hipRaw}
 \title{Neural network for youth Sojourn method, taking raw accelerometer data from
 hip-worn monitors}
-\format{From print(youth_hipRaw):
+\format{
+From print(youth_hipRaw):
 \describe{
 a 9-20-3 network with 263 weights inputs: Age SexM BMI ENMO_Q10 ENMO_Q25
 ENMO_Q50 ENMO_Q75 ENMO_Q90 ENMO_lag1 output(s): .outcome options were -
 softmax modelling  decay=0.1
-}}
+}
+}
 \usage{
 youth_hipRaw
 }

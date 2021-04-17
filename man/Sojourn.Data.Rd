@@ -3,7 +3,6 @@
 \docType{package}
 \name{Sojourn.Data}
 \alias{Sojourn.Data}
-\alias{Sojourn.Data-package}
 \title{Sojourn.Data: Models for Sojourn Accelerometer Methods}
 \description{
 Sojourn methods rely on large objects, which take up too much space in an

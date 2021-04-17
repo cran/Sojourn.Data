@@ -4,7 +4,9 @@
 \name{scal}
 \alias{scal}
 \title{Scaling coefficients for uniaxial nnetinputs}
-\format{numeric vector of size 6}
+\format{
+numeric vector of size 6
+}
 \usage{
 scal
 }

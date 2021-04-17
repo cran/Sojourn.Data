@@ -4,7 +4,9 @@
 \name{scal.1}
 \alias{scal.1}
 \title{Scaling coefficients for triaxial nnetinputs}
-\format{numeric vector of size 25}
+\format{
+numeric vector of size 25
+}
 \usage{
 scal.1
 }

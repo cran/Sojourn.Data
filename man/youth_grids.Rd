@@ -4,7 +4,9 @@
 \name{youth_grids}
 \alias{youth_grids}
 \title{Data frame containing grid values for the youth Sojourn method}
-\format{data frame with 4 rows and 14 columns}
+\format{
+data frame with 4 rows and 14 columns
+}
 \usage{
 youth_grids
 }

@@ -4,13 +4,15 @@
 \name{ALL.reg.nn}
 \alias{ALL.reg.nn}
 \title{Uniaxial neural network for use in original triaxial Sojourn method}
-\format{From print(ALL.reg.nn):
+\format{
+From print(ALL.reg.nn):
 \describe{
 a 6-25-1 network with 207 weights
 inputs: X10. X25. X50. X75. X90. acf
 output(s): oxy.METS.calculated
 options were - skip-layer connections  linear output units
-}}
+}
+}
 \usage{
 ALL.reg.nn
 }

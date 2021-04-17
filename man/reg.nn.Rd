@@ -4,10 +4,12 @@
 \name{reg.nn}
 \alias{reg.nn}
 \title{Uniaxial neural network for use in the original uniaxial Sojourn method}
-\format{From print(reg.nn):
+\format{
+From print(reg.nn):
 a 6-25-1 network with 207 weights inputs: X10. X25. X50. X75. X90. acf
 output(s): oxy.METS.calculated options were - skip-layer connections  linear
-output units}
+output units
+}
 \usage{
 reg.nn
 }

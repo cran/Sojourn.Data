@@ -4,13 +4,15 @@
 \name{class.nnn.6}
 \alias{class.nnn.6}
 \title{Triaxial neural network for original Sojourn method}
-\format{From print(class.nnn.6):
+\format{
+From print(class.nnn.6):
 \describe{
 a 22-25-4 network with 767 weights inputs: X50. X75. X90. acf X10.2 X25.2
 X50.2 X75.2 X90.2 acf.2 X25.3 X50.3 X75.3 X90.3 acf.3 X10.vm X25.vm X50.vm
 X75.vm X90.vm acf.vm inact.durations output(s): train.6$act.type options were
 - skip-layer connections  softmax modelling  decay=0.03
-}}
+}
+}
 \usage{
 class.nnn.6
 }

@@ -5,11 +5,13 @@
 \alias{youth_hipCounts}
 \title{Neural network for youth Sojourn method, taking activity count data from
 hip-worn monitors}
-\format{From print(youth_hipCounts):
+\format{
+From print(youth_hipCounts):
 \describe{
 a 9-15-3 network with 198 weights inputs: Age SexM BMI VM_Q10 VM_Q25 VM_Q50
 VM_Q75 VM_Q90 VM_lag1 output(s): .outcome options were - softmax modelling
-}}
+}
+}
 \usage{
 youth_hipCounts
 }

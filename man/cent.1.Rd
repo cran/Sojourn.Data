@@ -4,7 +4,9 @@
 \name{cent.1}
 \alias{cent.1}
 \title{Centering coefficients for triaxial nnetinputs}
-\format{A named numeric vector}
+\format{
+A named numeric vector
+}
 \usage{
 cent.1
 }
